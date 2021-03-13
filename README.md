@@ -1,2 +1,2 @@
-# webtimetableclay.github.io
+# Pixel-Clay.github.io
 Электронное расписание
