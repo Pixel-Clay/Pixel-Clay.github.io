@@ -1,2 +1,2 @@
-# Pixel-Clay.github.io
+[# Pixel-Clay.github.io](pixel-clay.giyhub.io)
 Электронное расписание
